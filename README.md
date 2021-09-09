@@ -19,3 +19,10 @@ Painfully coded from youtube video below when i did not find the github link
 
 ## Notes
 - `set` command is used for **Windows**. If linux os is used, replace `set` to `export`
+
+## What I learned - for my own references
+- Learned how to host localhost using ngrock
+- Learned how to mass install libraries using pip 
+- Learn redis library
+- POST/JSON
+- H2 heading the best in readme!  
