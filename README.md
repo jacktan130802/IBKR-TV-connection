@@ -21,8 +21,6 @@ Painfully coded from youtube video below when i did not find the github link
 - `set` command is used for **Windows**. If linux os is used, replace `set` to `export`
 
 </br>
-</br>
-
 ## What I learned - for my own references
 - Learned how to host localhost using ngrock
 - Learned how to mass install libraries using pip 
