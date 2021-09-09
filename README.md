@@ -18,4 +18,4 @@ Painfully coded from youtube video below when i did not find the github link
 
 
 ## Notes
-`set` command is used for windows. If linux os is used, replace `set` to `export`
+`set` command is used for **Windows**. If linux os is used, replace `set` to `export`
