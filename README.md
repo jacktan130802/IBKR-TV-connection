@@ -8,8 +8,8 @@ TradingView always said that they want to integrate with IBKR but it never occur
 ```
 pip3 install -r libs.txt
 
-export FLASK_APP=webapp
-export FLASK_ENV=development
+set FLASK_APP=webapp
+set FLASK_ENV=development
 flask run
 ```
 
