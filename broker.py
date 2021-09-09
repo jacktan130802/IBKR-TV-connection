@@ -1,12 +1,10 @@
 import redis, json
 from ib_insync import *
 import asyncio, time, random
-
-# connect to Interactive Brokers 
+# connection 
 ib = IB()
 ib.connect('127.0.0.1', 7497, clientId=1)
 
-# connect to Redis and subscribe to tradingview messages
 r = redis.Redis(host='localhost', port=6379, db=0)
 p = r.pubsub()
 p.subscribe('tradingview')
