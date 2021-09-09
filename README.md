@@ -15,3 +15,7 @@ flask run
 
 Painfully coded from youtube video below when i did not find the github link 
 - Youtube Link: https://www.youtube.com/watch?v=zsYKfzCNPPU
+
+
+## Notes
+set command is used for windows. If linux os is used, replace set to export
