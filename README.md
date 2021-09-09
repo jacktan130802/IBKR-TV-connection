@@ -1,3 +1,6 @@
+## Why is this necessary? 
+TradingView always said that they want to integrate with IBKR but it never occur. It is an issue, particularly to me as I do not want to fork out extra money for the real time market data with IBKR.
+
 ## Prerequisites
 
 * Requires redis, Python3, and packages installed
