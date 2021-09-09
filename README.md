@@ -6,7 +6,7 @@ TradingView always said that they want to integrate with IBKR but it never occur
 * Requires redis, Python3, and packages installed
 
 ```
-pip3 install -r requirements.txt
+pip3 install -r libs.txt
 
 export FLASK_APP=webapp
 export FLASK_ENV=development
