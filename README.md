@@ -2,7 +2,7 @@
 TradingView always said that they want to integrate with IBKR but it never occur. It is an issue, particularly to me as I do not want to fork out extra money for the real time market data with IBKR.
 
 ## Prerequisites
-
+* You probably need to have TV pro for auto buy alerts to ibkr
 * Requires redis, Python3, and packages installed
 
 ```
@@ -18,4 +18,4 @@ Painfully coded from youtube video below when i did not find the github link
 
 
 ## Notes
-`set` command is used for **Windows**. If linux os is used, replace `set` to `export`
+- `set` command is used for **Windows**. If linux os is used, replace `set` to `export`
